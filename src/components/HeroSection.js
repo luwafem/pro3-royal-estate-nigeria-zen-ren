@@ -34,7 +34,7 @@ const HeroSection = () => {
         {/* Middle: The Headline */}
         <main className="flex-1 flex flex-col justify-center px-6 md:px-10 lg:px-20 py-12">
           <div className="max-w-4xl">
-            <h1 className="text-[14vw] sm:text-[10vw] lg:text-[7vw] font-light leading-[0.9] tracking-tighter mb-6 lg:mb-10">
+            <h1 className="text-[12vw] sm:text-[10vw] lg:text-[7vw] font-light leading-[0.9] tracking-tighter mb-6 lg:mb-10">
               ARCHITECTURAL <br />
               <span className="font-serif italic text-white/40">Curations.</span>
             </h1>

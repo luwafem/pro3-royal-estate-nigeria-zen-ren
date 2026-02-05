@@ -58,7 +58,7 @@ const Header = () => {
             className="group z-[120] flex items-center gap-4 text-white"
           >
             <span className="text-[9px] font-black uppercase tracking-[0.4em] opacity-50 group-hover:opacity-100 transition-opacity">
-              {isMenuOpen ? 'Close' : 'Index'}
+              {isMenuOpen ? 'Close' : 'MENU'}
             </span>
             <div className="flex flex-col gap-1 w-6">
               <div className={`h-[1px] bg-white transition-all duration-500 ${isMenuOpen ? 'rotate-45 translate-y-[2px] w-6' : 'w-6'}`} />
